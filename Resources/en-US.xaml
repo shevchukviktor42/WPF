@@ -1,0 +1,26 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:WPF.Resources"
+                    xmlns:Sys="clr-namespace:System;assembly=mscorlib">
+
+    <Sys:String x:Key="Name">Name</Sys:String>
+    <Sys:String x:Key="Header">Saints</Sys:String>
+    <Sys:String x:Key="Save">Save</Sys:String>
+    <Sys:String x:Key="Load">Load</Sys:String>
+    <Sys:String x:Key="Add">Add</Sys:String>
+    <Sys:String x:Key="Theme">Theme</Sys:String>
+    <Sys:String x:Key="Light">Light</Sys:String>
+    <Sys:String x:Key="Dark">Dark</Sys:String>
+    <Sys:String x:Key="Sort">Sort</Sys:String>
+    <Sys:String x:Key="Year">Year</Sys:String>
+    <Sys:String x:Key="Rus">Russian</Sys:String>
+    <Sys:String x:Key="Eng">English</Sys:String>
+    <Sys:String x:Key="Language">Language</Sys:String>
+    <Sys:String x:Key="Exit">Exit</Sys:String>
+    <Sys:String x:Key="Volume">Volume</Sys:String>
+    <Sys:String x:Key="ImgSize">Image size</Sys:String>
+    <Sys:String x:Key="Edit">Edit</Sys:String>
+    <Sys:String x:Key="Show">Show</Sys:String>
+    <Sys:String x:Key="Remove">Remove</Sys:String>
+    <Sys:String x:Key="EditSaint">Edit Saint</Sys:String>
+</ResourceDictionary>

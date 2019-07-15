@@ -1,0 +1,26 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:WPF.Resources"
+                    xmlns:Sys="clr-namespace:System;assembly=mscorlib">
+
+    <Sys:String x:Key="Name">Имя</Sys:String>
+    <Sys:String x:Key="Header">Святые</Sys:String>
+    <Sys:String x:Key="Save">Сохранить</Sys:String>
+    <Sys:String x:Key="Load">Загрузить</Sys:String>
+    <Sys:String x:Key="Add">Добавить</Sys:String>
+    <Sys:String x:Key="Theme">Тема</Sys:String>
+    <Sys:String x:Key="Light">Светлая</Sys:String>
+    <Sys:String x:Key="Dark">Темная</Sys:String>
+    <Sys:String x:Key="Sort">Сортировать</Sys:String>
+    <Sys:String x:Key="Year">Год</Sys:String>
+    <Sys:String x:Key="Rus">Русский</Sys:String>
+    <Sys:String x:Key="Eng">Английский</Sys:String>
+    <Sys:String x:Key="Language">Язык</Sys:String>
+    <Sys:String x:Key="Exit">Выход</Sys:String>
+    <Sys:String x:Key="Volume">Громкость</Sys:String>
+    <Sys:String x:Key="ImgSize">Размер картинок</Sys:String>
+    <Sys:String x:Key="Edit">Изменить</Sys:String>
+    <Sys:String x:Key="Show">Показать</Sys:String>
+    <Sys:String x:Key="Remove">Удалить</Sys:String>
+    <Sys:String x:Key="EditSaint">Редактировать Святого</Sys:String>
+</ResourceDictionary>
